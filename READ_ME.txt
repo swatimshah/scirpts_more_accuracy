@@ -1,3 +1,5 @@
+optimizer: Adam 
+
 Freq Band: 1 to 12 Hz
 Decimation: 8
 Epoch: 0.6 sec
